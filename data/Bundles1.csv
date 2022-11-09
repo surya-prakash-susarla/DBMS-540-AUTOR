@@ -1,0 +1,4 @@
+Schedules,Services,Service_Type,PriceTier,Time,Service_ID
+A,Oil Changes + Filter Replacements ,m,6,3,113
+B,Oil Changes + Filter Replacements + Brake Repair + Check Engine Light Diagnostics,mr,7,6,114
+C,Oil Changes + Filter Replacements + Brake Repair + Check Engine Light Diagnostics + Suspension Repair + Evaporator Repair,mr,8,9,115

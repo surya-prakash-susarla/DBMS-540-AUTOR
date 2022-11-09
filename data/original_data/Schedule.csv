@@ -1,0 +1,8 @@
+Customer ID,Full Name,Service Center,VIN,Car Manufacturer,Current mileage,Scheduled Service,Week,Day,Start Time Slot,End Time Slot (the end time is the start time of the listed slot),Mechanic ID,InvoiceStatus
+10501,Wanda Maximoff,30003,P39VN198,Nissan,39500,Wheel Alignment,1,2,1,2,123405678,Unpaid
+10010,Virginia Potts,30003,39YVS415,Honda,49900,Belt Replacement,1,2,1,2,123450678,Unpaid
+10062,Sam Wilson,30003,29T56WC3,Nissan,51300,Tire Balancing,1,1,1,2,123456780,Paid
+10035,Happy Hogan,30002,9R2UHP54,Honda,67900,Alternator Repair,2,4,2,6,423186759,Paid
+10053,Billy Batson,30002,5TR3K914,Nissan,111000,Compressor Repair,2,1,3,6,125689347,Paid
+10010,Bruce Wayne,30002,15DC9A87,Toyota,21000,B,2,6,2,8,789123456,Paid
+10001,Steve Rogers,30002,18S5R2D8,Nissan,195500,A,3,5,5,8,125689347,Paid

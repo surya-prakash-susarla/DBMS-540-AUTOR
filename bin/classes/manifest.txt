@@ -1,0 +1,3 @@
+Main-Class: autor.ProjMain
+Class-Path: /afs/eos.ncsu.edu/software/oracle12/oracle/product/12.2/client/jdbc/lib/ojdbc8.jar autor
+

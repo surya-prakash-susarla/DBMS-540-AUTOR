@@ -1,0 +1,14 @@
+drop table SWAPS;
+drop table INDIVIDUAL_SERVICES;
+drop table MAINTENANCE_SERVICE;
+drop table SCHEDULE;
+drop table INVOICE;
+drop table CAR;
+drop table SERVICE_TIME;
+drop table SERVICE_COST;
+drop table CUSTOMER;
+drop table EMPLOYEES;
+drop table SERVICE_CENTER;
+drop table CREDENTIALS;
+drop table SERVICES;
+drop table MANUFACTURER;

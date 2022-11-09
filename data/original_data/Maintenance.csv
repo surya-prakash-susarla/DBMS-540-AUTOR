@@ -1,0 +1,13 @@
+Schedules,Services,"Service Type (m = maintainance, m r = maint. and repair)",PriceTier*,Time,Service ID
+A,Oil Changes,m,6,3,113
+,Filter Replacements,m,,,
+B,Oil Changes,m,7,6,114
+,Filter Replacements,m,,,
+,Brake Repair,m r,,,
+,Check Engine Light Diagnostics,m,,,
+C,Oil Changes,m,8,9,115
+,Filter Replacements,m,,,
+,Brake Repair,m r,,,
+,Check Engine Light Diagnostics,m,,,
+,Suspension Repair,m,,,
+,Evaporator Repair,m r,,,

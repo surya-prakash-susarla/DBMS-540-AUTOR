@@ -1,0 +1,4 @@
+Store Id,Address,Phone number,Open on Saturday?,Manager Id,Min wage for mechanics,Max wage for mechanics,Hourly rate for mechanics
+30001,"3921 Western Blvd, Raleigh, NC 27606",3392601234,Y,123456789,$30,$40,$35
+30002,"4500 Preslyn Dr Suite 103, Raleigh, NC 27616",8576890280,Y,987654321,$25,$35,$25
+30003,"9515 Chapel Hill Rd, Morrisville, NC 27560",7798182200,N,987612345,$20,$25,$22
